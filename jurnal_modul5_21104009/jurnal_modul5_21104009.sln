@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jurnal_modul5_21104009", "jurnal_modul5_21104009.csproj", "{3009140C-8C99-4E73-803E-AD3CDEECCE71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3009140C-8C99-4E73-803E-AD3CDEECCE71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3009140C-8C99-4E73-803E-AD3CDEECCE71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3009140C-8C99-4E73-803E-AD3CDEECCE71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3009140C-8C99-4E73-803E-AD3CDEECCE71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
